@@ -2,20 +2,23 @@
   {
     "name": "Mod Airi Siêu Việt",
     "file": "https://raw.githubusercontent.com/KunnAOV06/A/main/files/Airi.zip",
+    "img": "https://raw.githubusercontent.com/KunnAOV06/A/main/images/airi.jpg",
     "desc": "Skin Airi cực đẹp – full hiệu ứng ánh sáng.",
     "size": "25MB"
   },
   {
     "name": "Mod Tulen Ánh Sáng",
     "file": "https://raw.githubusercontent.com/KunnAOV06/A/main/files/Tulen.zip",
+    "img": "https://raw.githubusercontent.com/KunnAOV06/A/main/images/tulen.jpg",
     "desc": "Mod ánh sáng cho Tulen – cực mượt.",
     "size": "30MB"
-  },
+  }
+  ,
   {
-    "name": "Mod Zata Thiên Sứ",
-    "file": "https://raw.githubusercontent.com/KunnAOV06/A/main/files/Zata.zip",
-    "desc": "Mod Zata Thiên Sứ full hiệu ứng kỹ năng.",
-    "size": "22MB"
+    "name": "Mod Tulen Cubu",
+    "file": "https://raw.githubusercontent.com/KunnAOV06/A/main/files/Tulen.zip",
+    "img": "https://raw.githubusercontent.com/KunnAOV06/A/main/images/tulen.jpg",
+    "desc": "Mod ánh sáng cho Tulen – cực mượt.",
+    "size": "30MB"
   }
 ]
-
